@@ -1,0 +1,7 @@
+               Atualizador de Repositorios e upgrade
+
+1º Mova o Arquivo (check) Para a Pasta /bin#.
+
+2º Execute o comando: # chech
+
+e entao vai começar atualizar.
